@@ -9,6 +9,14 @@ import AppImage from '@/components/ui/AppImage';
 import Icon from '@/components/ui/AppIcon';
 import { allProperties } from '@/lib/properties-data';
 
+
+export function generateStaticParams() {
+  return allProperties.map((property) => ({
+    id: String(property.id),
+  }));
+}
+
+
 export default function PropertyDetailPage() {
   const params = useParams<{ id: string }>();
   const id = Number(params?.id);
