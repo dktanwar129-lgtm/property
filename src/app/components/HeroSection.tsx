@@ -56,7 +56,7 @@ export default function HeroSection() {
           </h1>
 
           <p className="text-lg text-white/70 leading-relaxed mb-10 max-w-lg">
-            PropVista guides buyers, sellers, and renters through London's property market with expert advice and a seamless booking experience.
+            Dvista guides buyers, sellers, and renters through London's property market with expert advice and a seamless booking experience.
           </p>
 
           <div className="flex flex-col sm:flex-row gap-4">

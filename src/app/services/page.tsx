@@ -6,8 +6,8 @@ import Footer from '@/components/Footer';
 import Icon from '@/components/ui/AppIcon';
 
 export const metadata: Metadata = {
-  title: 'Services — PropVista',
-  description: 'Buy, sell, rent, or invest in London property with PropVista — expert guidance at every step, from first search to completion.',
+  title: 'Services — Dvista',
+  description: 'Buy, sell, rent, or invest in London property with Dvista — expert guidance at every step, from first search to completion.',
 };
 
 const services = [

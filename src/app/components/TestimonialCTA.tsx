@@ -44,7 +44,7 @@ export default function TestimonialCTA() {
                 Client Story
               </p>
               <blockquote className="font-display text-section-lg text-white font-medium italic leading-[1.15] mb-10">
-                "PropVista found us our forever home in Kensington in under three weeks. The viewing process was completely seamless."
+                "Dvista found us our forever home in Kensington in under three weeks. The viewing process was completely seamless."
               </blockquote>
               <div className="flex items-center gap-4">
                 <div className="w-14 h-14 rounded-full overflow-hidden border-2 border-white/20 flex-shrink-0">

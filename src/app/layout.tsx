@@ -24,8 +24,8 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
   metadataBase: new URL(process.env.NEXT_PUBLIC_SITE_URL || 'http://localhost:3000'),
-  title: 'PropVista — Premium Real Estate in London',
-  description: 'PropVista helps buyers, sellers, and renters find the right property in London. Book a viewing online in minutes with our expert team.',
+  title: 'Dvista — Premium Real Estate in London',
+  description: 'Dvista helps buyers, sellers, and renters find the right property in London. Book a viewing online in minutes with our expert team.',
 };
 
 export default function RootLayout({

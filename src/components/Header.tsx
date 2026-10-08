@@ -43,7 +43,7 @@ export default function Header() {
           <Link href="/" className="flex items-center gap-2.5 group">
             <AppLogo size={36} />
             <span className="font-display font-semibold text-lg tracking-tight text-foreground hidden sm:block">
-              PropVista
+              Dvista
             </span>
           </Link>
 

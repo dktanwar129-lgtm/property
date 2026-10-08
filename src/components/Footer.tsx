@@ -23,7 +23,7 @@ export default function Footer() {
         <div className="flex items-center gap-3">
           <AppLogo size={32} />
           <span className="text-sm font-medium text-muted-foreground">
-            © 2026 PropVista Ltd.
+            © 2026 Dvista Ltd.
           </span>
         </div>
 

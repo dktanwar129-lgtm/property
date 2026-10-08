@@ -5,7 +5,7 @@ import Footer from '@/components/Footer';
 import BookingFlow from './components/BookingFlow';
 
 export const metadata: Metadata = {
-  title: 'Book a Viewing — PropVista',
+  title: 'Book a Viewing — Dvista',
   description: 'Schedule your property viewing online in minutes. Choose a property type, pick a date and time, and confirm your details.',
 };
 
